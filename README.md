@@ -21,3 +21,5 @@ curl -X GET http://localhost:5000/weatherforecast
 - Dependency Injection
 - HttpClient & IHttpClientFactory
 - Routing
+
+# Lab 03: Return Types
